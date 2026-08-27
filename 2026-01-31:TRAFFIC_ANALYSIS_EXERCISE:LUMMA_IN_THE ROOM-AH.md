@@ -32,7 +32,7 @@ For this exercise, answer the following questions for your incident report:
 
 ## LET'S SOLVE
 ### 1) What is the IP address of the infected Windows client?
-A:
+A: ``` 153.92.1.49 ```
 
 ### Proof
 

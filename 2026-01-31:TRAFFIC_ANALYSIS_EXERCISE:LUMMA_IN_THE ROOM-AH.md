@@ -32,13 +32,13 @@ For this exercise, answer the following questions for your incident report:
 
 ## LET'S SOLVE
 ### 1) What is the IP address of the infected Windows client?
-A: ``` 153.92.1.49 ```
+A: ``` 10.1.21.58 ```
 
 ### Proof
 
 
 ### 2) What is the MAC address of the infected Windows client?
-A:
+A: ``` 00:04:c1:be:8c:d4 ```
 
 ### Proof
 
@@ -46,24 +46,24 @@ A:
 
 
 ### 3) What is the host name of the infected Windows client?
-A:
+A: ```  ```
 
 ### Proof
 
 
 ### 4) What is the user account name from the infected Windows client?
-A:
+A: ```  ```
 
 
 ### Proof
 
 ### 5) What is the full name of the user from the user account?
-A:
+A: ```  ```
 
 ### Proof
 
 ### 6) What is the domain from 153.92.1[.]49 that triggered the alert for Lumma Stealer?
-A:
+A: ```  ```
 
 ### Proof
 

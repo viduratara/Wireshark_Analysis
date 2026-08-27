@@ -28,3 +28,43 @@ For this exercise, answer the following questions for your incident report:
     What is the user account name from the infected Windows client?
     What is the full name of the user from the user account?
     What is the domain from 153.92.1[.]49 that triggered the alert for Lumma Stealer?
+
+
+## LET'S SOLVE
+### 1) What is the IP address of the infected Windows client?
+A:
+
+### Proof
+
+
+### 2) What is the MAC address of the infected Windows client?
+A:
+
+### Proof
+
+
+
+
+### 3) What is the host name of the infected Windows client?
+A:
+
+### Proof
+
+
+### 4) What is the user account name from the infected Windows client?
+A:
+
+
+### Proof
+
+### 5) What is the full name of the user from the user account?
+A:
+
+### Proof
+
+### 6) What is the domain from 153.92.1[.]49 that triggered the alert for Lumma Stealer?
+A:
+
+### Proof
+
+

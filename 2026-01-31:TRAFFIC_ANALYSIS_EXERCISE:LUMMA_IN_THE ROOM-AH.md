@@ -46,24 +46,24 @@ A: ``` 00:04:c1:be:8c:d4 ```
 
 
 ### 3) What is the host name of the infected Windows client?
-A: ```  ```
+A: ``` DESKTOP-ES9F3ML ```
 
 ### Proof
 
 
 ### 4) What is the user account name from the infected Windows client?
-A: ```  ```
+A: ``` gwyatt ```
 
 
 ### Proof
 
 ### 5) What is the full name of the user from the user account?
-A: ```  ```
+A: ``` Gabriel Wyatt ```
 
 ### Proof
 
 ### 6) What is the domain from 153.92.1[.]49 that triggered the alert for Lumma Stealer?
-A: ```  ```
+A: ``` whitepepper.su ```
 
 ### Proof
 

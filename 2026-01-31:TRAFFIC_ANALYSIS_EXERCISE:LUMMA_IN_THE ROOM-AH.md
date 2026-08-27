@@ -18,7 +18,7 @@ The characteristics of your environment are:
     LAN segment broadcast address:  10.1.21[.]255
 
 
-## YOUR TASK
+## TASK
 
 For this exercise, answer the following questions for your incident report:
 

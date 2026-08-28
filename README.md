@@ -1,3 +1,6 @@
+<img width="1672" height="814" alt="image" src="https://github.com/user-attachments/assets/123b758d-ec21-4cc1-b809-af29e376b512" />
+
+
 # Wireshark Case Files
 
 A series of network traffic investigations, done the way a SOC analyst would actually work a real alert — not just opening a pcap and clicking around.

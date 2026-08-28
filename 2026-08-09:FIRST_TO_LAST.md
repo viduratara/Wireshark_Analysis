@@ -44,28 +44,28 @@ For this exercise, answer the following questions for your incident report:
 
 ## LET'S SOLVE
 
-1) What is the IP address of the infected Windows client?
+### 1) What is the IP address of the infected Windows client?
 A: ```  172.16.8.49	 ```
 
 
 
 
-2) What is the MAC address of the infected Windows client?
+### 2) What is the MAC address of the infected Windows client?
 A: ``` 00:12:f0:28:d4:34  ```
 
 
 
 
-3) What is the host name of the infected Windows client?
+### 3) What is the host name of the infected Windows client?
 A: ```  DESKTOP-5NLV63K     ```
 
 
 
-4) What is the user account name from the infected Windows client?
+### 4) What is the user account name from the infected Windows client?
 A: ```  rvance  ```
 
 
 
 
-5) What is the full name of the user from the user account?
+### 5) What is the full name of the user from the user account?
 A: ```  Raymond Vance    ```

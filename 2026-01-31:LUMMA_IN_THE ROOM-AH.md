@@ -38,7 +38,7 @@ A: ``` 10.1.21.58 ```
 
 
 ### 2) What is the MAC address of the infected Windows client?
-A: ``` 00:04:c1:be:8c:d4 ```
+A: ``` 00:21:5d:c8:0e:f2 ```
 
 ### Proof
 
